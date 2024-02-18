@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+venv/
+.env
+.talismanrc
+.DS_Store
+*/__pycache__/
+.DS_Store
